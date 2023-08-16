@@ -1,0 +1,194 @@
+Given open the app.
+-> skipped because of previous errors
+When click on the take me to demo app
+-> skipped because of previous errors
+And opens the app displays the popup button and click on the button.
+-> skipped because of previous errors
+When HI program in All-Around
+-> skipped because of previous errors
+And display the Right HI and Left HI volumes
+-> skipped because of previous errors
+And validate the Right HI and Left HI values is "9"
+-> skipped because of previous errors
+And set surrounding volume is "3" on Right HI and  "10" on Left HI
+-> skipped because of previous errors
+And validate the surrounding volume is "3" on Right HI and "10" on Left HI
+-> skipped because of previous errors
+When merge surroundings volume on All-Around program
+-> skipped because of previous errors
+And validate merged surroundings volume is "3" on All-Around program
+-> skipped because of previous errors
+And validate HI merged surrounding volume is "13" on All-Around program
+-> skipped because of previous errors
+And press speech clarity button on All Around program and validate speech clarity button is enabled
+-> skipped because of previous errors
+When press on Noise filter button on All Around program
+-> skipped because of previous errors
+And validate Noise filter button is enabled and speech clarity button is disabled.
+-> skipped because of previous errors
+When press on speech clarity button on All Around program
+-> skipped because of previous errors
+And validate speech clarity button is enabled and Noise filter button is disabled.
+-> skipped because of previous errors
+When press on Sound Enhancer button on All Around program
+-> skipped because of previous errors
+And set Bass gain to '4' Middle gain to '-3' Treble gain to '5'
+-> skipped because of previous errors
+And Then validate Bass gain to '4' Middle gain to '-3' Treble gain to '5'
+-> skipped because of previous errors
+When I press on Tinnitus Manager on All Around  Sound Enhancer
+-> skipped because of previous errors
+And I press Nature sound button Calming Waves on All Around Tinnitus manager
+-> skipped because of previous errors
+And I press Nature sound button Breaking Waves on All Around Tinnitus manager
+-> skipped because of previous errors
+When I press the exit button on All Around Sound enhancer
+-> skipped because of previous errors
+And I swipe left to Hear in Noise program from current program
+-> skipped because of previous errors
+And validate program card is Hear in Noise
+-> skipped because of previous errors
+When I press Sound Enhancer button on Hear in noise program
+-> skipped because of previous errors
+And I press Tinnitus Manager on Hear in noise Sound Enhancer
+-> skipped because of previous errors
+And I press white noise button Slight variation on Hear in noise Tinnitus Manager
+-> skipped because of previous errors
+When I press Reset button on All-Around Tinnitus Manager
+-> skipped because of previous errors
+And I press the exit button on Hear in noise Sound Enhancer
+-> skipped because of previous errors
+When I swipe left to Outdoor program from current program
+-> skipped because of previous errors
+Then validate program card is Outdoor
+-> skipped because of previous errors
+When I press Sound Enhancer button on Outdoor program
+-> skipped because of previous errors
+And I drag Wind Noise Reduction to 'Strong' on Outdoor Sound Enhancer
+-> skipped because of previous errors
+And validate HI PNR value is 'Strong'
+-> skipped because of previous errors
+And I press the exit button on Outdoor Sound Enhancer
+-> skipped because of previous errors
+And I swipe left to Music program from current program
+-> skipped because of previous errors
+And validate program card is Music
+-> skipped because of previous errors
+When I press Music program on the top ribbon bar
+-> skipped because of previous errors
+And validate program card is Musicribbon
+-> skipped because of previous errors
+When I press Outdoor program on the top ribbon bar
+-> skipped because of previous errors
+And validate program card is Outdoorribbon
+-> skipped because of previous errors
+When I press Hear in noise program on the top ribbon bar
+-> skipped because of previous errors
+And validate program card is Hear in Noiseribbon
+-> skipped because of previous errors
+When I press All-Around program on the top ribbon bar
+-> skipped because of previous errors
+And validate program card is All-Around
+-> skipped because of previous errors
+When I press Program overview button on topribbonbar
+-> skipped because of previous errors
+And I press Hear in noise program on Program overview
+-> skipped because of previous errors
+When I press Outdoor program on Program overview
+-> skipped because of previous errors
+When I press Music program on Program overview
+-> skipped because of previous errors
+When I press All-Around program on Program overview
+-> skipped because of previous errors
+When I press the Close button on Program overview
+-> skipped because of previous errors
+When I press menu item My ReSound on bottom ribbon bar
+-> skipped because of previous errors
+And I press Learn about the app on My ReSound
+-> skipped because of previous errors
+And I press Volume control on Learn about the app
+-> skipped because of previous errors
+And I swipe left to 2 / 3 page on Learn about the app
+-> skipped because of previous errors
+Then validate Left and right volume animation is shown on Volume control
+-> skipped because of previous errors
+When I swipe mute left to 3 / 3 page on Learn about the app
+-> skipped because of previous errors
+Then validate Mute animation is shown on Volume control
+-> skipped because of previous errors
+When I close on Learn about the app and back to My Resound page
+-> skipped because of previous errors
+And I press Guiding tips on My ReSound
+-> skipped because of previous errors
+And I press OK on Please notice dialog
+-> skipped because of previous errors
+Then validate title is Guiding tips on Guiding tips page
+-> skipped because of previous errors
+When I press Noise filter on Guiding tips
+-> skipped because of previous errors
+And I press Got it on Noise filter nudging dialog
+-> skipped because of previous errors
+And I press My Resound on bottom ribbon bar and back to Guiding tips on My Resound
+-> skipped because of previous errors
+And I press Music program on Guiding tips
+-> skipped because of previous errors
+Then validate Got it button enabled on Music program nudging dialog
+-> skipped because of previous errors
+Then validate Back to tips button enabled on Music program nudging dialog
+-> skipped because of previous errors
+When I press Got it on Music program nudging dialog
+-> skipped because of previous errors
+And I press menu item More on bottom ribbon bar
+-> skipped because of previous errors
+Then validate Auto-activate favorite locations switch is on
+-> skipped because of previous errors
+When I press Auto-activate favorite locations switch on More menu
+-> skipped because of previous errors
+Then validate Auto-activate favorite locations switch is off
+-> skipped because of previous errors
+When I press Auto-activate favorite locations switch on Moremenu
+-> skipped because of previous errors
+Then validate Autoactivate favorite locations switch is on
+-> skipped because of previous errors
+When I press more menu item About
+-> skipped because of previous errors
+Then validate page title is displayed on About page
+-> skipped because of previous errors
+And validate html view is displayed on About page
+-> skipped because of previous errors
+When I press back from About page
+-> skipped because of previous errors
+And I press more menu item Legal information
+-> skipped because of previous errors
+And I press Legal information item MANUFACTURER
+-> skipped because of previous errors
+Then validate page title is displayed on Manufacturer page
+-> skipped because of previous errors
+When I press back from Manufacturer page
+-> skipped because of previous errors
+And I press Legal information item TERMS AND CONDITIONS
+-> skipped because of previous errors
+Then validate page title is displayed on Terms and Conditions page
+-> skipped because of previous errors
+When I press back from Terms and Conditions page
+-> skipped because of previous errors
+And I press Legal information item PRIVACY POLICY
+-> skipped because of previous errors
+Then validate html view is displayed on PRIVACY POLICY page
+-> skipped because of previous errors
+And validate page title is displayed on PRIVACY POLICY page
+-> skipped because of previous errors
+When I press back from PRIVACY POLICY page
+-> skipped because of previous errors
+And I press back from Legal information page
+-> skipped because of previous errors
+And I press more menu item Support
+-> skipped because of previous errors
+Then validate html view is displayed on Support page
+-> skipped because of previous errors
+And validate page title is displayed on Support page
+-> skipped because of previous errors
+When I press back from Support page
+-> skipped because of previous errors
+Then I press menu item Home on bottom ribbon bar
+-> skipped because of previous errors
